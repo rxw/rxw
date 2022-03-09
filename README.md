@@ -5,3 +5,5 @@ I'm rxw (meaning I can read, execute and write 🤓). I'm a big fan of problem s
 - 🔭 I’m currently working on finding alpha
 - 📫 How to reach me: fut@mit.edu
 - ⚡ Fun fact: I can deadlift over 400 pounds 😮
+
+![euler](https://projecteuler.net/profile/tatosaurus.png)
